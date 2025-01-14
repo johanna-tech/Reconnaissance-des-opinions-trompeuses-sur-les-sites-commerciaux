@@ -1,0 +1,2 @@
+# Reconnaissance-des-opinions-trompeuses-sur-les-sites-commerciaux
+La détection des faux avis en ligne est un défi majeur pour assurer l'intégrité des plateformes de commerce électronique et des réseaux sociaux. Il s'agit de concevoir des algorithmes efficaces qui distinguent les avis authentiques des faux avec une grande précision, tout en minimisant les faux positifs et maximisant la détection des faux avis.
